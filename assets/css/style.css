@@ -71,7 +71,9 @@ h3 {
 nav {
 	float: right;
 	margin-top: 25px;
+	margin-right: 20px;
 }
+
 nav a {
 	color: #999;
 	text-decoration: none;
@@ -108,6 +110,7 @@ footer {
 	float: right;
 	border: 1px solid #ddd;
 	margin-bottom: 20px;
+	margin-right: 20px;
 }
 h3,
 .sidebar h2 {
