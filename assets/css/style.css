@@ -68,6 +68,15 @@ h3 {
 	font-size: 30px;
 	text-decoration: none;
 }
+#_640_nav_bar
+{
+	/*margin:5px;*/
+}
+li
+{
+	float:left;
+}
+
 nav {
 	float: right;
 	margin-top: 25px;
@@ -75,6 +84,7 @@ nav {
 }
 
 nav a {
+	clear:both;
 	color: #999;
 	text-decoration: none;
 	margin-left: 15px;
@@ -348,6 +358,14 @@ selector::pseudo-element {
 	margin-top: 25px;
 	margin-right: 20px;
 	}
+	ul {
+	/*float: left;*/
+	/*width: 100%;*/
+	margin: 0 auto;
+	width: 15em;
+	}
+
+
 
 }
     /*
